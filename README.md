@@ -9,11 +9,21 @@ I use statistical modelling, geospatial analysis and data science to study quest
 
 ## Teaching resources
 
-| Module | Materials |
+### Modules
+
+| Module | Teaching materials |
 | --- | --- |
-| **GEOG0114 · Principles of Spatial Analysis** | Spatial analysis practicals, including spatial autocorrelation, kriging and spatial regression. [Course website](https://uclpg-msc-sgds.github.io/GEOG0114/) |
-| **GEOG0186 · Foundations of Geography I** | Quantitative skills tutorials in RStudio, from basic R to applied London air-quality exercises. [Course website](https://uclpg-msc-sgds.github.io/GEOG0186/) |
-| **GEOG0191 · Quantitative Skills for SDS Students** | A self-paced base R primer and two London air-quality practicals. [Course website](https://uclpg-msc-sgds.github.io/GEOG0191_2627/) |
+| **GEOG0114 · Principles of Spatial Analysis** | Practicals on spatial autocorrelation, kriging and spatial regression. [Course website](https://uclpg-msc-sgds.github.io/GEOG0114/) · [GitHub repository](https://github.com/UCLPG-MSC-SGDS/GEOG0114) |
+| **GEOG0186 · Foundations of Geography I** | Quantitative skills in RStudio, from basic R to London air-quality analysis. [Course website](https://uclpg-msc-sgds.github.io/GEOG0186/) · [GitHub repository](https://github.com/UCLPG-MSC-SGDS/GEOG0186) |
+| **GEOG0125 · Advanced Topics in Social Geographic Data Science** | [Course website](https://uclpg-msc-sgds.github.io/GEOG0125_2627/) |
+| **POLS0008 · Introduction to Quantitative Methods** | Computer practicals for introductory quantitative methods. [GitHub repository](https://github.com/UCLPG-MSC-SGDS/POLS0008) |
+
+### Workshops
+
+| Workshop | Teaching materials |
+| --- | --- |
+| **Introduction to Bayesian Inference and Modelling** | UCL SODA CPD, June 2025. Bayesian inference, hierarchical regression and spatial modelling using R and Stan. [Workshop website](https://uclpg-msc-sgds.github.io/UCL-SODA-CPD-RStan/) |
+| **BISemWeb2025 · R and GIS Computer Practicals** | R and GIS practicals hosted at ENSEA in Abidjan, Côte d’Ivoire. [Workshop website](https://uclpg-msc-sgds.github.io/BISemWeb2025/00-index.html) |
 
 ## Selected appointments
 
