@@ -15,7 +15,7 @@ I use statistical modelling, geospatial analysis and data science to study quest
 | --- | --- |
 | **GEOG0114 · Principles of Spatial Analysis** | Practicals on spatial autocorrelation, kriging and spatial regression. [Course website](https://uclpg-msc-sgds.github.io/GEOG0114/) · [GitHub repository](https://github.com/UCLPG-MSC-SGDS/GEOG0114) |
 | **GEOG0186 · Foundations of Geography I** | Quantitative skills in RStudio, from basic R to London air-quality analysis. [Course website](https://uclpg-msc-sgds.github.io/GEOG0186/) · [GitHub repository](https://github.com/UCLPG-MSC-SGDS/GEOG0186) |
-| **GEOG0125 · Advanced Topics in Social Geographic Data Science** | [Course website](https://uclpg-msc-sgds.github.io/GEOG0125_2627/) |
+| **GEOG0125 · Advanced Topics in Social Geographic Data Science** | Practicals on Bayesian inference, hierarchical regression and spatial modelling using R and Stan [GitHub repository](https://uclpg-msc-sgds.github.io/GEOG0125_2627/) |
 | **POLS0008 · Introduction to Quantitative Methods** | Computer practicals for introductory quantitative methods. [GitHub repository](https://github.com/UCLPG-MSC-SGDS/POLS0008) |
 
 ### Workshops
