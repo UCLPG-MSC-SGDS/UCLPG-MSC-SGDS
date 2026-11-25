@@ -1,4 +1,4 @@
-# Dr Anwar Musah
+# Anwar Musah (UCLPG-MSC-SDGS)
 
 **Lecturer in Social and Geographic Data Science**
 Department of Geography, University College London
